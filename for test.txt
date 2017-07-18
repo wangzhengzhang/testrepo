@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 for test...nnnn
+=======
+for test¡£¡£¡££¬£¬£¬
+>>>>>>> test
