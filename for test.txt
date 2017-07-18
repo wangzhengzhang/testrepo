@@ -1,10 +1,13 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 for test...nnnn
 =======
 for test¡£¡£¡££¬£¬£¬
 =======
+=======
+>>>>>>> test
 =======
 >>>>>>> test
 for test¡£¡£¡££¬£¬£¬
@@ -15,5 +18,10 @@ for test¡£¡£¡£nnnn
 =======
 =======
 for test...nnnn
+>>>>>>> test
+<<<<<<< HEAD
+=======
+=======
+for test...nnnn.....
 >>>>>>> test
 >>>>>>> test
