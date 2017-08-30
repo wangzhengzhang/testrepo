@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 for test¡£¡£¡££¬£¬£¬   aaa
+=======
+<<<<<<< HEAD
+test
+
+>>>>>>> branch2
