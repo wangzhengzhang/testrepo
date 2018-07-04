@@ -5,3 +5,4 @@ for test¡£¡£¡££¬£¬£¬   aaa
 test
 
 >>>>>>> branch2
+Asdfasdfasdf
