@@ -1,7 +1,8 @@
-<<<<<<< HEAD
+Adfadf<<<<<<< HEAD
 for test¡£¡£¡££¬£¬£¬   aaa
 =======
 <<<<<<< HEAD
 test
 
 >>>>>>> branch2
+Asdfasdfasdf
